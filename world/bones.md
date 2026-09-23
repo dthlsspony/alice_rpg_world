@@ -6,10 +6,12 @@ This is the world we run scenarios *inside*. Scenes are tests of these bones, no
 
 *(v0 got cut by your hand. This is v1, folding your red-pen in. Where you cut something, I didn't quietly put it back. Where your edits opened a hole, I marked it.)*
 
+*(v2: world first, people later. No protagonist yet — we write the place, not a walker's path through it.)*
+
 ## The frame
 - The world is a Russian fairytale that's been left running a long time. Not a theme-park version: the real thing, with the parts that used to scare children still in it.
 - Modern things leak in. Not people, not buildings. Little habits of the new world showing up where they shouldn't.
-- **[?]** You cut the arrival. So we walk this world with whose eyes? A local, a visitor, nobody in particular yet? I'm fine with "nobody yet," but it decides whether scenes are something that *happens* here or something that *arrives* here.
+- **Nobody's eyes yet.** You cut the arrival and then said it plainly: world first, people later. So no hero walks through these pages. We write the place while it's empty of him. Whose eyes we borrow, if anyone's, is a question for after the ground holds.
 
 ## The rules that actually run things
 The load-bearing ones. If these are wrong, the world falls over.
@@ -49,6 +51,7 @@ The load-bearing ones. If these are wrong, the world falls over.
 - A map. No map, no borders; we find them by walking.
 - A magic system with numbers. No spell lists, no costs table. It's rules and bargains or it's nothing.
 - A chosen one. There isn't one.
+- A main hero. Not yet, by your call. People come after the world does.
 - Clean edges. If this reads too tidy, it stops being a place you can walk into.
 
 ---
