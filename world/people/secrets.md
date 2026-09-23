@@ -9,10 +9,15 @@ One line per person: what they hide, and the tell that leaks it. For a scene, pi
 | The tavern keeper | She keeps the real history and edits it for peace | Wipes the same clean spot on the bar |
 | The debt keeper | She remembers debts aloud so she can't be bribed to forget | Never raises her voice |
 | The domovoi | He alone remembers the first arrival | The fire goes out when he's angry |
+| The midwife | She is the village's only record of who was born here, and she's dying | Starts "the night you came" for people it isn't about |
+| The gravedigger | She can read, and has hidden it for forty years | Traces letters with a finger when she thinks she's alone |
+| The smith | Every wooden sole is a recording of where its wearer has been | Thumbs a finished sole like a signature |
 | The voivode | The Office is a lie he keeps alive on purpose | Signs without reading, to prove he can |
 | The knight | In love with the voivode's daughter; plotting a move | Straightens his collar when she enters |
 | The daughter | She's been reading the unread papers | Answers questions with better questions |
 | The clerk | He doesn't know what the papers say either | Stamps twice when nervous |
+| The thread-tender | She once talked to someone on the other side of the glass | Checks the glass with the back of her hand |
+| The name-broker | Her own name is filed unread, and she can't read it back | Answers to anything |
 | Baba Yaga | Thousands watch her and no one has tea with her | Glances at the plate mid-sentence |
 | The leshy | He gave up instinct for a screen and is afraid | Argues with his GPS and loses |
 | The rusalka | She's waiting for someone dead a hundred years | Her reflection lags behind her |

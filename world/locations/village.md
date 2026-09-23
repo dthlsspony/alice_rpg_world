@@ -38,4 +38,6 @@ The tells. Use them to build unease before anyone names it:
 - A child who answers a question you only thought.
 
 ## Who's here
-The chief, the fool, the tavern keeper, the debt keeper, the domovoi. See `../people/npcs.md`.
+The chief, the fool, the tavern keeper, the debt keeper, the domovoi, the midwife, the gravedigger, the smith. See `../people/npcs.md`.
+
+The midwife and the gravedigger are the two people the chief can't out-shout: one holds the beginnings, the other holds the ends.

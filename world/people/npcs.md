@@ -39,6 +39,30 @@ The house spirit behind the chief's stove. Older than the village. Wired, recent
 - **Hides:** he remembers the first arrival. He's the only one who does. He'll trade the memory for a promise to keep the stove.
 - **Tell:** the fire goes out when he's angry, and relights when he's bribed.
 
+### The midwife
+She has delivered every living soul in the village. She was in the room for the beginnings.
+- **Says:** "I was there." About births, mostly. She is the village's other memory, and the truer one.
+- **Wants:** someone to *hear* the births while she can still tell them.
+- **Hides:** she is the only living record of who was born here, and to whom, and she is dying. When she goes, the village loses its beginning. The chief knows, and can't fix it, and laughs louder about it.
+- **Tell:** starts a story with "the night you came" to anyone, even a stranger, even when it isn't their night.
+- **Hook:** she'll tell a stranger a birth that isn't theirs, because she needs the story said out loud before the end.
+
+### The gravedigger
+Keeps the old stones. The only villager who treats the writing as writing, because she's the one who cuts it.
+- **Says:** names, out loud, while she digs. Reading them is how she says goodbye.
+- **Wants:** her own stone cut and standing before she needs it, so she isn't forgotten.
+- **Hides:** she can read. She's the village's one true reader, and has kept it quiet for forty years, because the last person who read here is a `[?]` hole I left open. She paints over nothing. She just doesn't say.
+- **Tell:** traces letters with one finger when she thinks nobody is watching.
+- **Hook:** she'll read anything a stranger shows her, if they dig a grave with her first.
+
+### The smith
+Not a blacksmith. A bootsmith. Every boot in the village has wood sewn into the sole, and she's the only one who makes them.
+- **Says:** little. Works.
+- **Wants:** for people to stop asking about the wood.
+- **Hides:** the wood is cut from trees that grew near the field, and it remembers the road it walked. Every pair of boots in the village is a small recording of where its wearer has been, and she knows this and has never said it.
+- **Tell:** runs her thumb down a finished sole before handing it over, like she's checking a signature.
+- **Hook:** a stranger's boots wear wrong, and she refuses to sell them a new pair.
+
 ## The City
 
 ### The voivode
@@ -64,6 +88,22 @@ The princess of this story, though nobody calls her that.
 Not a name, a function. One of many, in the Office of Unread Papers.
 - **Wants:** the queue to move. It never does.
 - **Hides:** he doesn't know what the papers say either. He stamps them because stamping is the only thing that makes them real, and he's terrified that one day it won't.
+
+### The thread-tender
+Keeps the Thread-House warm. Sits at the end of the row, not in it.
+- **Says:** "Warm enough?" and means *is it working*.
+- **Wants:** the threads to stay local. She's the one who keeps them from reaching the village, and nobody asked her to.
+- **Hides:** she talked to someone on the other side of the glass, once. She can't decide if it was the first arrival or a stranger from further out. She deleted it. She thinks about it every day.
+- **Tell:** checks the glass with the back of her hand when she's lying.
+- **Hook:** she'll show a stranger the deleted message for a promise not to tell the village.
+
+### The name-broker
+Runs the Market of Borrowed Names. Sells reputations by the day.
+- **Says:** your new name, and then uses it like it was always yours.
+- **Wants:** a name of her own. She's worn other people's so long she can't remember hers.
+- **Hides:** her real name is on a wall in the Office of Unread Papers, and she can't read it, so she can't take it back. This is the name rented too long.
+- **Tell:** answers to anything.
+- **Hook:** she'll give a stranger a name for free, if they'll read one word off a paper for her.
 
 ## The Old Ones
 

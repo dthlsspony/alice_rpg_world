@@ -24,7 +24,7 @@ The grid. Electricity wired like a nervous system, metered, sold. The field's wi
 The city lord's hall. Bigger than the chief's house and quieter, which tells you which man is actually feared.
 
 ## Who's here
-The voivode, his daughter, the knight of his guard, and a great many clerks. See `../people/npcs.md`.
+The voivode, his daughter, the knight of his guard, a great many clerks, the thread-tender at the Thread-House, and the name-broker at the Market. See `../people/npcs.md`.
 
 ## What's off here
 - Paper that's warm to the touch.
